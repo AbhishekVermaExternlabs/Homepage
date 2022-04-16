@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from "../components/Navbar";
-import workspace from "../images/workspace.png";
-import seo_icon1 from "../images/seo_icon1.png";
-import seo_icon2 from "../images/seo_icon2.png";
-import seo_icon3 from "../images/seo_icon3.png";
-import rocket_image from "../images/Rocket_image.png";
+import Navbar from "../component/Navbar";
+import workspace from "../../images/workspace.png";
+import seo_icon1 from "../../images/seo_icon1.png";
+import seo_icon2 from "../../images/seo_icon2.png";
+import seo_icon3 from "../../images/seo_icon3.png";
+import rocket_image from "../../images/Rocket_image.png";
 
 const Home = () => {
   return (
